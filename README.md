@@ -1,2 +1,2 @@
 # email-ojs
-writing emails templates for ojs 
+writing email templates for ojs 
